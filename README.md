@@ -9,8 +9,10 @@
 ```
 0 - Regressions:
   \ Random Forest Regressor (RFG)
+  \ XGB Regression
 
 1 - Classifications:
+  \ XGB Classifier
 
 2 - Deep Learning:
 ```
